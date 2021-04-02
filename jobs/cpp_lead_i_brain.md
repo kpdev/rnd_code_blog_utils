@@ -1,6 +1,8 @@
 ## C++ Team Lead на проект нейротренажера компании I-Brain 
 
-- contact: andrey.bystrov.hr@gmail.com
+- contact: 
+  - andrey.bystrov.hr@gmail.com
+  - tg: @abystrovv
 
 -----------------
 
